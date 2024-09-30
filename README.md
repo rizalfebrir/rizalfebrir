@@ -10,9 +10,6 @@
 <a href="https://instagram.com/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
   <a href="https://dev.to/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dephraiim" height="20" width="20" /></a>
 </p>
-Hi there 👋 I'm Muhammad Rizal Febri Ramadani Mahasiswa Informatics Engineering'22 PENS
-<br>
-📫 How to reach me: Email me at rizalfebri04@gmail.com
-<br>
+
 Thank You
 <!--
